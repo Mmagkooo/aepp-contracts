@@ -15,7 +15,7 @@
     "@codemirror/theme-one-dark": "^6.1.2",
     "ansi_up": "^6.0.2",
     "codemirror": "^6.0.1",
-    "phoenix": "^1.7.12",
+    "phoenix": "^1.7.14",
     "phoenix-channels": "^1.0.0",
     "pinia": "^2.1.7",
     "vue": "^3.4.24",
