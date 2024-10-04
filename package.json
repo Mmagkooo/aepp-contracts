@@ -17,7 +17,7 @@
     "codemirror": "^6.0.1",
     "phoenix": "^1.7.12",
     "phoenix-channels": "^1.0.0",
-    "pinia": "^2.1.7",
+    "pinia": "^2.2.2",
     "vue": "^3.4.24",
     "vue-codemirror": "^6.1.1"
   },
