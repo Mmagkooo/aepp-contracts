@@ -18,7 +18,7 @@
     "phoenix": "^1.7.12",
     "phoenix-channels": "^1.0.0",
     "pinia": "^2.1.7",
-    "vue": "^3.4.24",
+    "vue": "^3.5.4",
     "vue-codemirror": "^6.1.1"
   },
   "devDependencies": {
